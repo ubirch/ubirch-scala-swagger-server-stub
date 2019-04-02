@@ -1,5 +1,4 @@
 # Scala based REST API #
-
 ## Goal :
 - create a scala based REST API 
 - has a nice UI (swagger)
